@@ -1,9 +1,10 @@
 # Pacman
 Pacman Javascript testing (In other words cheating)
 
-                                      Please use with cation as this is still in dev stages
+Please use with cation as this is still in dev stages
 
-                                      URL for my local instance is http://website.local/
+URL for my local instance 
+                                                      http://website.local/
 
 
 ----------------------------------------------
