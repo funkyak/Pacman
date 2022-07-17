@@ -12,7 +12,7 @@ var bot = setInterval(infintelives,100)// 100 ms (Time)
 pacman.die =function(){} // Calls to an empty function 
 
 
-// enable Power Pill \\
+// Enable Power Pill \\
 // Attacking the ghosts for this version 
 // Needs to be completed in breakout
 window.inky = inky
